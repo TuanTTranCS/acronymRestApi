@@ -61,7 +61,6 @@
 ## Some examples using Postman
 
 1. Get all acronyms (GET method):
-
     * Send a GET request to http://localhost:5001/acronym:
         ![GET request](images/get_request.png)
 
@@ -100,6 +99,5 @@
     ![PATCH response](images/patch_response.png)
 
 4.  Delete an acronym (DELETE method) - assumed using admin mode and the correct <AdminPassword> was provided:
-
     * Send a DELETE request to http://localhost:5001/acronym/652f1e392deeca26ecf41bda:
         ![DELETE request and response](images/delete_request_response.png)
