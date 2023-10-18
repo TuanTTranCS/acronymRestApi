@@ -1,6 +1,7 @@
 # REST API Server for acronyms (Flask & MongoDB)
 
 ## Introduction
+
     This is a toy project to demonstrate how to setup a simple local REST API server using Flask and an online mongoDB database to store acronyms.
     The API server supports the following methods:
         • GET /acronym - returns a list of acronyms
@@ -14,6 +15,7 @@
 
 
  ## Requirements
+ 
     • Python 3+
     • Flask
     • PyMongo
@@ -23,6 +25,7 @@
     
 
  ## Installation
+ 
     • Clone the repository
     • Create a virtual environment and activate it
     • Install the requirements:
